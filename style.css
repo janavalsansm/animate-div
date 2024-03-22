@@ -1,0 +1,22 @@
+#diva{
+    background:blueviolet;
+    height:100px;
+    width:100px;
+    position: absolute;
+}
+.position{
+    left:0px;
+    top:0px;
+    
+}
+#btn{
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    border: none;
+    background-color:rgb(36, 160, 118);
+    margin-left: 200px;
+    cursor: pointer;
+    
+}
+
